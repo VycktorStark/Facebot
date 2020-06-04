@@ -1,18 +1,8 @@
-* * *
-
-                 ____       _                ____  _
-                |  _ \ ___ | |__   ___      |  _ \| |__  
-                | |_) / _ \| '_ \ / _ \     | | | | '_ \
-                |  _ < (_) | |_) | (_) |    | |_| | |_) |  By: Vycktor Stark
-                |_| \_\___/|_.__/ \___/     |____/|_.__/   Version: 4.0 - Facebook
-
-                
-* * *
 :warning: Discontinued version, the Facebook API has been updated. If you want to continue with the copy of this project for learning and testing purposes, read the [facebook-api documentation](https://developers.facebook.com/docs/messenger-platform) :warning:
 
 ## What is it?
 
-Robot Db version 4.0 is a bot that uses the API "Facebook-Bot-API" written in Python, its structure was created in a simple way to show how easy it is to create a bot on facebook.
+This is a bot that uses the API "Facebook-Bot-API" written in Python, its structure was created in a simple way to show how easy it is to create a bot on facebook.
 
 ## Getting Started
 
@@ -74,14 +64,12 @@ $ sudo pip install -r requirements.txt
 Cloning the repository:
 
 ```bash
-$ git clone https://github.com/VycktorStark/DbRobot-Facebook-Python.git
+$ git clone https://github.com/VycktorStark/Facebot.git
 
 ```
 
 ## Initialization process
 
-To start the bot, execute `cd DbRobot-Facebook-Python/ && pyhton3 main.py`. To stop the bot, press `Ctrl + c` twice.
+To start the bot, execute `cd Facebot/ && pyhton3 main.py`. To stop the bot, press `Ctrl + c` twice.
 
 * * *
-
-## @DbRobot
