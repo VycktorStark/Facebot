@@ -8,7 +8,7 @@
 
                 
 * * *
-
+:warning: Discontinued version, the Facebook API has been updated. If you want to continue with the copy of this project for learning and testing purposes, read the [facebook-api documentation](https://developers.facebook.com/docs/messenger-platform) :warning:
 
 ## What is it?
 
